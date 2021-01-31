@@ -16,7 +16,7 @@
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
     "id": 1
   },
-    {
+  {
     "Title": "Inception",
     "Year": "2010",
     "Rated": "PG-13",
@@ -32,53 +32,6 @@
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
     "id": 2
   },
-  {
-    "Title": "Get Out",
-    "Year": "2017",
-    "Rated": "R",
-    "Released": "24 Feb 2017",
-    "Runtime": "104 min",
-    "Genre": "Horror, Mystery, Thriller",
-    "Director": "Jordan Peele",
-    "Writer": "Jordan Peele",
-    "Actors": "Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford",
-    "Language": "English",
-    "Country": "Japan, USA",
-    "Awards": "Won 1 Oscar. Another 122 wins & 181 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SX300.jpg",
-    "id": 3
-  },
-  {
-    "Title": "Deadpool",
-    "Year": "2016",
-    "Rated": "R",
-    "Released": "12 Feb 2016",
-    "Runtime": "108 min",
-    "Genre": "Action, Adventure, Comedy",
-    "Director": "Tim Miller",
-    "Writer": "Rhett Reese, Paul Wernick",
-    "Actors": "Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",
-    "Language": "English",
-    "Country": "USA",
-    "Awards": "Nominated for 2 Golden Globes. Another 27 wins & 73 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "id": 4
-  },
-  {
-    "Title": "Avatar",
-    "Year": "2009",
-    "Rated": "PG-13",
-    "Released": "18 Dec 2009",
-    "Runtime": "162 min",
-    "Genre": "Action, Adventure, Fantasy",
-    "Director": "James Cameron",
-    "Writer": "James Cameron",
-    "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
-    "Language": "English, Spanish",
-    "Country": "UK, USA",
-    "Awards": "Won 3 Oscars. Another 85 wins & 128 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
-    "id": 5
- }
+
 ]
 }
