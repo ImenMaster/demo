@@ -192,6 +192,416 @@
     "Website": "http://www.foxmovies.com/deadpool",
     "Response": "True",
     "id": 4
+  },
+        {
+    "Title": "Jurassic Park",
+    "Year": "1993",
+    "Rated": "PG-13",
+    "Released": "11 Jun 1993",
+    "Runtime": "127 min",
+    "Genre": "Adventure, Sci-Fi, Thriller",
+    "Director": "Steven Spielberg",
+    "Writer": "Michael Crichton (novel), Michael Crichton (screenplay), David Koepp (screenplay)",
+    "Actors": "Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough",
+    "Plot": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Won 3 Oscars. Another 32 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "Metascore": "68",
+    "imdbRating": "8.1",
+    "imdbVotes": "731,642",
+    "imdbID": "tt0107290",
+    "Type": "movie",
+    "DVD": "10 Oct 2000",
+    "BoxOffice": "$45,299,680",
+    "Production": "Universal City Studios",
+    "Website": "http://www.jurassicpark.com/maingate_flash.html",
+    "Response": "True",
+    "id": 6
+  },
+  {
+    "Title": "The Avengers",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "04 May 2012",
+    "Runtime": "143 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Joss Whedon",
+    "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
+    "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson, Chris Hemsworth",
+    "Plot": "Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster.",
+    "Language": "English, Russian, Hindi",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 38 wins & 79 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "8.1",
+    "imdbVotes": "1,116,889",
+    "imdbID": "tt0848228",
+    "Type": "movie",
+    "DVD": "25 Sep 2012",
+    "BoxOffice": "&pound;623,279,547",
+    "Production": "Walt Disney Pictures",
+    "Website": "http://marvel.com/avengers_movie",
+    "Response": "True",
+    "id": 7
+  },
+  {
+    "Title": "Back to the Future",
+    "Year": "1985",
+    "Rated": "PG",
+    "Released": "03 Jul 1985",
+    "Runtime": "116 min",
+    "Genre": "Adventure, Comedy, Sci-Fi",
+    "Director": "Robert Zemeckis",
+    "Writer": "Robert Zemeckis, Bob Gale",
+    "Actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",
+    "Plot": "Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean \"time machine\" invented by a slightly mad scientist. During his often hysterical, always amazing trip back in time, Marty must make certain his teenage parents-to-be meet and fall in love - so he can get back to the future.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 19 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "86/100"
+      }
+    ],
+    "Metascore": "86",
+    "imdbRating": "8.5",
+    "imdbVotes": "868,829",
+    "imdbID": "tt0088763",
+    "Type": "movie",
+    "DVD": "17 Dec 2002",
+    "BoxOffice": "$2,925,880",
+    "Production": "Universal Pictures",
+    "Website": "http://www.bttfmovie.com/",
+    "Response": "True",
+    "id": 8
+  },
+  {
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Rated": "R",
+    "Released": "24 Mar 1972",
+    "Runtime": "175 min",
+    "Genre": "Crime, Drama",
+    "Director": "Francis Ford Coppola",
+    "Writer": "Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by), Mario Puzo (based on the novel by)",
+    "Actors": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
+    "Plot": "When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen.",
+    "Language": "English, Italian, Latin",
+    "Country": "USA",
+    "Awards": "Won 3 Oscars. Another 24 wins & 28 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "98%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "100/100"
+      }
+    ],
+    "Metascore": "100",
+    "imdbRating": "9.2",
+    "imdbVotes": "1,353,121",
+    "imdbID": "tt0068646",
+    "Type": "movie",
+    "DVD": "09 Oct 2001",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "http://www.thegodfather.com",
+    "Response": "True",
+    "id": 9
+  },
+  {
+    "Title": "The Shining",
+    "Year": "1980",
+    "Rated": "R",
+    "Released": "13 Jun 1980",
+    "Runtime": "146 min",
+    "Genre": "Drama, Horror",
+    "Director": "Stanley Kubrick",
+    "Writer": "Stephen King (novel), Stanley Kubrick (screenplay), Diane Johnson (screenplay)",
+    "Actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+    "Plot": "Signing a contract, Jack Torrance, a normal writer and former teacher agrees to take care of a hotel which has a long, violent past that puts everyone in the hotel in a nervous situation. While Jack slowly gets more violent and angry of his life, his son, Danny, tries to use a special talent, the \"Shining\", to inform the people outside about whatever that is going on in the hotel.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "3 wins & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "63/100"
+      }
+    ],
+    "Metascore": "63",
+    "imdbRating": "8.4",
+    "imdbVotes": "729,245",
+    "imdbID": "tt0081505",
+    "Type": "movie",
+    "DVD": "29 Jun 1999",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True",
+    "id": 10
+  },
+  {
+    "Title": "The Wolf of Wall Street",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Dec 2013",
+    "Runtime": "180 min",
+    "Genre": "Biography, Comedy, Crime",
+    "Director": "Martin Scorsese",
+    "Writer": "Terence Winter (screenplay), Jordan Belfort (book)",
+    "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",
+    "Plot": "Jordan Belfort is a Long Island penny stockbroker who served 22 months in prison for defrauding investors in a massive 1990s securities scam that involved widespread corruption on Wall Street and in the corporate banking world, including shoe designer Steve Madden.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "Nominated for 5 Oscars. Another 38 wins & 165 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "78%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "8.2",
+    "imdbVotes": "966,965",
+    "imdbID": "tt0993846",
+    "Type": "movie",
+    "DVD": "25 Mar 2014",
+    "BoxOffice": "$91,330,760",
+    "Production": "Paramount Studios",
+    "Website": "http://www.thewolfofwallstreet.com/",
+    "Response": "True",
+    "id": 11
+  },
+  {
+    "Title": "American Pie",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "09 Jul 1999",
+    "Runtime": "95 min",
+    "Genre": "Comedy",
+    "Director": "Paul Weitz, Chris Weitz",
+    "Writer": "Adam Herz",
+    "Actors": "Jason Biggs, Chris Klein, Thomas Ian Nicholas, Alyson Hannigan",
+    "Plot": "Jim, Oz, Finch and Kevin are four friends who make a pact that before they graduate they will all lose their virginity. The hard job now is how to reach that goal by prom night. Whilst Oz begins singing to grab attention and Kevin tries to persuade his girlfriend, Finch tries any easy route of spreading rumors and Jim fails miserably. Whether it is being caught on top of a pie or on the Internet, Jim always ends up with his trusty sex advice from his father. Will they achieve their goal of getting laid by prom night? Or will they learn something much different?",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "9 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "60%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "58/100"
+      }
+    ],
+    "Metascore": "58",
+    "imdbRating": "7.0",
+    "imdbVotes": "342,940",
+    "imdbID": "tt0163651",
+    "Type": "movie",
+    "DVD": "21 Dec 1999",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "http://www.universalpictures.com/americanpie",
+    "Response": "True",
+    "id": 12
+  },
+  {
+    "Title": "Se7en",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "22 Sep 1995",
+    "Runtime": "127 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "David Fincher",
+    "Writer": "Andrew Kevin Walker",
+    "Actors": "Morgan Freeman, Andrew Kevin Walker, Daniel Zacapa, Brad Pitt",
+    "Plot": "A film about two homicide detectives' (Morgan Freeman and (Brad Pitt desperate hunt for a serial killer who justifies his crimes as absolution for the world's ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains of one victim to the next as the sociopathic \"John Doe\" (Kevin Spacey) sermonizes to Detectives Somerset and Mills -- one sin at a time. The sin of Gluttony comes first and the murderer's terrible capacity is graphically demonstrated in the dark and subdued tones characteristic of film noir. The seasoned and cultured but jaded Somerset researches the Seven Deadly Sins in an effort to understand the killer's modus operandi while the bright but green and impulsive Detective Mills (Pitt) scoffs at his efforts to get inside the mind of a killer...",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 25 wins & 33 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "8.6",
+    "imdbVotes": "1,208,501",
+    "imdbID": "tt0114369",
+    "Type": "movie",
+    "DVD": "14 Apr 1997",
+    "BoxOffice": "N/A",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True",
+    "id": 13
+  },
+  {
+    "Title": "Goodfellas",
+    "Year": "1990",
+    "Rated": "R",
+    "Released": "21 Sep 1990",
+    "Runtime": "146 min",
+    "Genre": "Crime, Drama",
+    "Director": "Martin Scorsese",
+    "Writer": "Nicholas Pileggi (book), Nicholas Pileggi (screenplay), Martin Scorsese (screenplay)",
+    "Actors": "Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco",
+    "Plot": "Henry Hill might be a small time gangster, who may have taken part in a robbery with Jimmy Conway and Tommy De Vito, two other gangsters who might have set their sights a bit higher. His two partners could kill off everyone else involved in the robbery, and slowly start to think about climbing up through the hierarchy of the Mob. Henry, however, might be badly affected by his partners' success, but will he consider stooping low enough to bring about the downfall of Jimmy and Tommy?",
+    "Language": "English, Italian",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 43 wins & 37 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "89/100"
+      }
+    ],
+    "Metascore": "89",
+    "imdbRating": "8.7",
+    "imdbVotes": "855,144",
+    "imdbID": "tt0099685",
+    "Type": "movie",
+    "DVD": "26 Mar 1997",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True",
+    "id": 14
+  },
+  {
+    "Title": "Batman Begins",
+    "Year": "2005",
+    "Rated": "PG-13",
+    "Released": "15 Jun 2005",
+    "Runtime": "140 min",
+    "Genre": "Action, Adventure",
+    "Director": "Christopher Nolan",
+    "Writer": "Bob Kane (characters), David S. Goyer (story), Christopher Nolan (screenplay), David S. Goyer (screenplay)",
+    "Actors": "Christian Bale, Michael Caine, Liam Neeson, Katie Holmes",
+    "Plot": "When his parents are killed, billionaire playboy Bruce Wayne relocates to Asia where he is mentored by Henri Ducard and Ra's Al Ghul in how to fight evil. When learning about the plan to wipe out evil in Gotham City by Ducard, Bruce prevents this plan from getting any further and heads back to his home. Back in his original surroundings, Bruce adopts the image of a bat to strike fear into the criminals and the corrupt as the icon known as 'Batman'. But it doesn't stay quiet for long.",
+    "Language": "English, Urdu, Mandarin",
+    "Country": "USA, UK",
+    "Awards": "Nominated for 1 Oscar. Another 14 wins & 72 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmUwNGU2ZmItMmRiNC00MjhlLTg5YWUtODMyNzkxODYzMmZlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "84%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "70/100"
+      }
+    ],
+    "Metascore": "70",
+    "imdbRating": "8.3",
+    "imdbVotes": "1,128,171",
+    "imdbID": "tt0372784",
+    "Type": "movie",
+    "DVD": "18 Oct 2005",
+    "BoxOffice": "&pound;204,100,000",
+    "Production": "Warner Bros. Pictures",
+    "Website": "http://www.batmanbegins.com/",
+    "Response": "True",
+    "id":15
   }
 
       ]
