@@ -111,6 +111,38 @@
     "Awards": "Nominated for 2 Oscars. Another 52 wins & 99 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX300.jpg",
     "id": 7
- }
+ },
+ {
+    "Title": "Taxi Driver",
+    "Year": "1976",
+    "Rated": "R",
+    "Released": "08 Feb 1976",
+    "Runtime": "114 min",
+    "Genre": "Crime, Drama",
+    "Director": "Martin Scorsese",
+    "Writer": "Paul Schrader",
+    "Actors": "Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 4 Oscars. Another 21 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "id": 8
+  },
+  {
+    "Title": "Raiders of the Lost Ark",
+    "Year": "1981",
+    "Rated": "PG",
+    "Released": "12 Jun 1981",
+    "Runtime": "115 min",
+    "Genre": "Action, Adventure",
+    "Director": "Steven Spielberg",
+    "Writer": "Lawrence Kasdan (screenplay by), George Lucas (story by), Philip Kaufman (story by)",
+    "Actors": "Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey",
+    "Language": "English, German, Hebrew, Spanish, Arabic, Nepali",
+    "Country": "USA",
+    "Awards": "Won 4 Oscars. Another 30 wins & 23 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX300.jpg",
+    "id": 9
+  }
 ]
 }
