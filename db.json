@@ -1,4 +1,4 @@
-"movies": [
+{"movies": [
     {
       "id": 1,
       "title": "Post 1"
@@ -12,4 +12,4 @@
       "title": "Post 3"
     }
   ]
-
+}
