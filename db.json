@@ -14,21 +14,6 @@
     "Country": "USA, UK",
     "Awards": "Won 2 Oscars. Another 152 wins & 155 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "9.0/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "94%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "82/100"
-      }
-    ],
- 
     "id": 1
   },
   {
@@ -45,20 +30,6 @@
     "Country": "USA, UK",
     "Awards": "Won 4 Oscars. Another 152 wins & 204 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.8/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "86%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "74/100"
-      }
-    ],
     "id": 2
   },
   {
@@ -75,20 +46,6 @@
     "Country": "Japan, USA",
     "Awards": "Won 1 Oscar. Another 122 wins & 181 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.7/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "99%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "84/100"
-      }
-    ],
     "id": 3
   },
   {
@@ -105,21 +62,6 @@
     "Country": "USA",
     "Awards": "Nominated for 2 Golden Globes. Another 27 wins & 73 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.0/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "83%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "65/100"
-      }
-    ],
-   
     "id": 4
   },
         {
@@ -136,20 +78,6 @@
     "Country": "UK, USA",
     "Awards": "Won 3 Oscars. Another 85 wins & 128 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.8/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "83%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "83/100"
-      }
-    ],
     "id": 5
   },
   ]
