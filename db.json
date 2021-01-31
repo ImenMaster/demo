@@ -1,31 +1,536 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+ 
+"movies":[
+  {
+    "Title": "The Dark Knight",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "18 Jul 2008",
+    "Runtime": "152 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Christopher Nolan",
+    "Writer": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
+    "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+    "Plot": "Set within a year after the events of Batman Begins, Batman, Lieutenant James Gordon, and new district attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City until a mysterious and sadistic criminal mastermind known only as the Joker appears in Gotham, creating a new wave of chaos. Batman's struggle against the Joker becomes deeply personal, forcing him to \"confront everything he believes\" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent and Rachel Dawes.",
+    "Language": "English, Mandarin",
+    "Country": "USA, UK",
+    "Awards": "Won 2 Oscars. Another 152 wins & 155 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "9.0",
+    "imdbVotes": "1,937,798",
+    "imdbID": "tt0468569",
+    "Type": "movie",
+    "DVD": "09 Dec 2008",
+    "BoxOffice": "$533,316,061",
+    "Production": "Warner Bros. Pictures/Legendary",
+    "Website": "http://thedarkknight.warnerbros.com/",
+    "Response": "True",
+    "id": 1
+  },
+  {
+    "Title": "Inception",
+    "Year": "2010",
+    "Rated": "PG-13",
+    "Released": "16 Jul 2010",
+    "Runtime": "148 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan",
+    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy",
+    "Plot": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible - inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming.",
+    "Language": "English, Japanese, French",
+    "Country": "USA, UK",
+    "Awards": "Won 4 Oscars. Another 152 wins & 204 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "74/100"
+      }
+    ],
+    "Metascore": "74",
+    "imdbRating": "8.8",
+    "imdbVotes": "1,735,071",
+    "imdbID": "tt1375666",
+    "Type": "movie",
+    "DVD": "07 Dec 2010",
+    "BoxOffice": "$292,568,851",
+    "Production": "Warner Bros. Pictures",
+    "Website": "http://inceptionmovie.warnerbros.com/",
+    "Response": "True",
+    "id": 2
+  },
+  {
+    "Title": "Get Out",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "24 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Jordan Peele",
+    "Writer": "Jordan Peele",
+    "Actors": "Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford",
+    "Plot": "Chris and his girlfriend Rose go upstate to visit her parent's for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+    "Language": "English",
+    "Country": "Japan, USA",
+    "Awards": "Won 1 Oscar. Another 122 wins & 181 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "99%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Metascore": "84",
+    "imdbRating": "7.7",
+    "imdbVotes": "319,917",
+    "imdbID": "tt5052448",
+    "Type": "movie",
+    "DVD": "23 May 2017",
+    "BoxOffice": "&pound;175,428,355",
+    "Production": "Universal Pictures",
+    "Website": "http://www.getoutfilm.com/",
+    "Response": "True",
+    "id": 3
+  },
+  {
+    "Title": "Deadpool",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "12 Feb 2016",
+    "Runtime": "108 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Tim Miller",
+    "Writer": "Rhett Reese, Paul Wernick",
+    "Actors": "Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",
+    "Plot": "This is the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Golden Globes. Another 27 wins & 73 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "83%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "8.0",
+    "imdbVotes": "748,845",
+    "imdbID": "tt1431045",
+    "Type": "movie",
+    "DVD": "10 May 2016",
+    "BoxOffice": "&pound;328,674,489",
+    "Production": "20th Century Fox",
+    "Website": "http://www.foxmovies.com/deadpool",
+    "Response": "True",
+    "id": 4
+  },
+  {
+    "Title": "The Shawshank Redemption",
+    "Year": "1994",
+    "Rated": "R",
+    "Released": "14 Oct 1994",
+    "Runtime": "142 min",
+    "Genre": "Drama",
+    "Director": "Frank Darabont",
+    "Writer": "Stephen King (short story \"Rita Hayworth and Shawshank Redemption\"), Frank Darabont (screenplay)",
+    "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+    "Plot": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 7 Oscars. Another 19 wins & 32 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "9.3",
+    "imdbVotes": "1,967,060",
+    "imdbID": "tt0111161",
+    "Type": "movie",
+    "DVD": "27 Jan 1998",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True",
+    "id": 5
+  },
+  {
+    "Title": "Jurassic Park",
+    "Year": "1993",
+    "Rated": "PG-13",
+    "Released": "11 Jun 1993",
+    "Runtime": "127 min",
+    "Genre": "Adventure, Sci-Fi, Thriller",
+    "Director": "Steven Spielberg",
+    "Writer": "Michael Crichton (novel), Michael Crichton (screenplay), David Koepp (screenplay)",
+    "Actors": "Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough",
+    "Plot": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Won 3 Oscars. Another 32 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "Metascore": "68",
+    "imdbRating": "8.1",
+    "imdbVotes": "731,642",
+    "imdbID": "tt0107290",
+    "Type": "movie",
+    "DVD": "10 Oct 2000",
+    "BoxOffice": "$45,299,680",
+    "Production": "Universal City Studios",
+    "Website": "http://www.jurassicpark.com/maingate_flash.html",
+    "Response": "True",
+    "id": 6
+  },
+  {
+    "Title": "The Avengers",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "04 May 2012",
+    "Runtime": "143 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Joss Whedon",
+    "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
+    "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson, Chris Hemsworth",
+    "Plot": "Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster.",
+    "Language": "English, Russian, Hindi",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 38 wins & 79 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "8.1",
+    "imdbVotes": "1,116,889",
+    "imdbID": "tt0848228",
+    "Type": "movie",
+    "DVD": "25 Sep 2012",
+    "BoxOffice": "&pound;623,279,547",
+    "Production": "Walt Disney Pictures",
+    "Website": "http://marvel.com/avengers_movie",
+    "Response": "True",
+    "id": 7
+  },
+  {
+    "Title": "Back to the Future",
+    "Year": "1985",
+    "Rated": "PG",
+    "Released": "03 Jul 1985",
+    "Runtime": "116 min",
+    "Genre": "Adventure, Comedy, Sci-Fi",
+    "Director": "Robert Zemeckis",
+    "Writer": "Robert Zemeckis, Bob Gale",
+    "Actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",
+    "Plot": "Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean \"time machine\" invented by a slightly mad scientist. During his often hysterical, always amazing trip back in time, Marty must make certain his teenage parents-to-be meet and fall in love - so he can get back to the future.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 19 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "86/100"
+      }
+    ],
+    "Metascore": "86",
+    "imdbRating": "8.5",
+    "imdbVotes": "868,829",
+    "imdbID": "tt0088763",
+    "Type": "movie",
+    "DVD": "17 Dec 2002",
+    "BoxOffice": "$2,925,880",
+    "Production": "Universal Pictures",
+    "Website": "http://www.bttfmovie.com/",
+    "Response": "True",
+    "id": 8
+  },
+  {
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Rated": "R",
+    "Released": "24 Mar 1972",
+    "Runtime": "175 min",
+    "Genre": "Crime, Drama",
+    "Director": "Francis Ford Coppola",
+    "Writer": "Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by), Mario Puzo (based on the novel by)",
+    "Actors": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
+    "Plot": "When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen.",
+    "Language": "English, Italian, Latin",
+    "Country": "USA",
+    "Awards": "Won 3 Oscars. Another 24 wins & 28 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "98%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "100/100"
+      }
+    ],
+    "Metascore": "100",
+    "imdbRating": "9.2",
+    "imdbVotes": "1,353,121",
+    "imdbID": "tt0068646",
+    "Type": "movie",
+    "DVD": "09 Oct 2001",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "http://www.thegodfather.com",
+    "Response": "True",
+    "id": 9
+  },
+  {
+    "Title": "The Shining",
+    "Year": "1980",
+    "Rated": "R",
+    "Released": "13 Jun 1980",
+    "Runtime": "146 min",
+    "Genre": "Drama, Horror",
+    "Director": "Stanley Kubrick",
+    "Writer": "Stephen King (novel), Stanley Kubrick (screenplay), Diane Johnson (screenplay)",
+    "Actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+    "Plot": "Signing a contract, Jack Torrance, a normal writer and former teacher agrees to take care of a hotel which has a long, violent past that puts everyone in the hotel in a nervous situation. While Jack slowly gets more violent and angry of his life, his son, Danny, tries to use a special talent, the \"Shining\", to inform the people outside about whatever that is going on in the hotel.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "3 wins & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "63/100"
+      }
+    ],
+    "Metascore": "63",
+    "imdbRating": "8.4",
+    "imdbVotes": "729,245",
+    "imdbID": "tt0081505",
+    "Type": "movie",
+    "DVD": "29 Jun 1999",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True",
+    "id": 10
+  },
+  {
+    "Title": "The Wolf of Wall Street",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Dec 2013",
+    "Runtime": "180 min",
+    "Genre": "Biography, Comedy, Crime",
+    "Director": "Martin Scorsese",
+    "Writer": "Terence Winter (screenplay), Jordan Belfort (book)",
+    "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",
+    "Plot": "Jordan Belfort is a Long Island penny stockbroker who served 22 months in prison for defrauding investors in a massive 1990s securities scam that involved widespread corruption on Wall Street and in the corporate banking world, including shoe designer Steve Madden.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "Nominated for 5 Oscars. Another 38 wins & 165 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "78%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "8.2",
+    "imdbVotes": "966,965",
+    "imdbID": "tt0993846",
+    "Type": "movie",
+    "DVD": "25 Mar 2014",
+    "BoxOffice": "$91,330,760",
+    "Production": "Paramount Studios",
+    "Website": "http://www.thewolfofwallstreet.com/",
+    "Response": "True",
+    "id": 11
+  },
+  {
+    "Title": "American Pie",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "09 Jul 1999",
+    "Runtime": "95 min",
+    "Genre": "Comedy",
+    "Director": "Paul Weitz, Chris Weitz",
+    "Writer": "Adam Herz",
+    "Actors": "Jason Biggs, Chris Klein, Thomas Ian Nicholas, Alyson Hannigan",
+    "Plot": "Jim, Oz, Finch and Kevin are four friends who make a pact that before they graduate they will all lose their virginity. The hard job now is how to reach that goal by prom night. Whilst Oz begins singing to grab attention and Kevin tries to persuade his girlfriend, Finch tries any easy route of spreading rumors and Jim fails miserably. Whether it is being caught on top of a pie or on the Internet, Jim always ends up with his trusty sex advice from his father. Will they achieve their goal of getting laid by prom night? Or will they learn something much different?",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "9 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "60%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "58/100"
+      }
+    ],
+    "Metascore": "58",
+    "imdbRating": "7.0",
+    "imdbVotes": "342,940",
+    "imdbID": "tt0163651",
+    "Type": "movie",
+    "DVD": "21 Dec 1999",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "http://www.universalpictures.com/americanpie",
+    "Response": "True",
+    "id": 12
+  },
+  {
+    "Title": "Se7en",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "22 Sep 1995",
+    "Runtime": "127 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "David Fincher",
+    "Writer": "Andrew Kevin Walker",
+    "Actors": "Morgan Freeman, Andrew Kevin Walker, Daniel Zacapa, Brad Pitt",
+    "Plot": "A film about two homicide detectives' (Morgan Freeman and (Brad Pitt desperate hunt for a serial killer who justifies his crimes as absolution for the world's ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains of one victim to the next as the sociopathic \"John Doe\" (Kevin Spacey) sermonizes to Detectives Somerset and Mills -- one sin at a time. The sin of Gluttony comes first and the murderer's terrible capacity is graphically demonstrated in the dark and subdued tones characteristic of film noir. The seasoned and cultured but jaded Somerset researches the Seven Deadly Sins in an effort to understand the killer's modus operandi while the bright but green and impulsive Detective Mills (Pitt) scoffs at his efforts to get inside the mind of a killer...",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 25 wins & 33 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "8.6",
+    "imdbVotes": "1,208,501",
+    "imdbID": "tt0114369",
+    "Type": "movie",
+    "DVD": "14 Apr 1997",
+    "BoxOffice": "N/A",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True",
+    "id": 13
   }
-}
+  ]
