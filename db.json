@@ -13,6 +13,7 @@
     "Country": "USA, UK",
     "Awards": "Won 2 Oscars. Another 152 wins & 155 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+    "rating":4,
     "id": 1
   },
   {
@@ -28,6 +29,7 @@
     "Country": "USA, UK",
     "Awards": "Won 4 Oscars. Another 152 wins & 204 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+    "rating":4,
     "id": 2
   },
   {
@@ -43,6 +45,7 @@
     "Country": "Japan, USA",
     "Awards": "Won 1 Oscar. Another 122 wins & 181 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SX300.jpg",
+    "rating":5,
     "id": 3
   },
   {
@@ -58,6 +61,7 @@
     "Country": "USA",
     "Awards": "Won 2 Oscars. Another 33 wins & 29 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg",
+    "rating":3,
     "id": 4
   },
   {
@@ -73,6 +77,7 @@
     "Country": "USA",
     "Awards": "Nominated for 2 Golden Globes. Another 27 wins & 73 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "rating":5,
     "id": 5
   },
   {
@@ -88,6 +93,7 @@
     "Country": "UK, USA",
     "Awards": "Won 3 Oscars. Another 85 wins & 128 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "rating":3,
     "id": 6
  },
  {
@@ -103,6 +109,7 @@
     "Country": "USA",
     "Awards": "Nominated for 2 Oscars. Another 52 wins & 99 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX300.jpg",
+    "rating":5,
     "id": 7
  },
  {
@@ -118,6 +125,7 @@
     "Country": "USA",
     "Awards": "Nominated for 4 Oscars. Another 21 wins & 15 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "rating":5,
     "id": 8
   },
   {
@@ -133,6 +141,7 @@
     "Country": "USA",
     "Awards": "Won 4 Oscars. Another 30 wins & 23 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX300.jpg",
+    "rating":3,
     "id": 9
   }
 ]
